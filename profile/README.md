@@ -1,10 +1,16 @@
 ## Hi there 👋
 
-Thestage AI is AI research lab.
-Thestage AI is not a research for a research.
-Thestage AI is a research because of real applications.
-Thestage AI build minimalist AI research framework with strong focus on DNNs quantization, sparcification and pruning.
-Thestage AI build minimalist AI workspace for engineers and researches.
+* Thestage AI is the research lab.
+
+* Thestage AI is not a research for a research.
+
+* Thestage AI is a research because of real applications.
+
+* Thestage AI builds tools to deploy DNNs to wide range of devices.
+
+* Thestage AI builds tools to fit DNNs to wide range of devices through quantization, sparcification and pruning.
+
+* Thestage AI builds minimalist AI workspace for themselves, for engineers and for researches: [Platform](app.thestage.ai)
 
 <!--
 
